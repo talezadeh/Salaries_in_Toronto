@@ -1,0 +1,511 @@
+Job Title,NOC Code,# of working individuals,Prospect
+Financial managers,10010,19270.0,Moderate
+Human resources managers,10011,9030.0,Good
+Purchasing managers,10012,3080.0,Good
+Other administrative services managers,10019,,Undetermined
+"Insurance, real estate and financial brokerage managers",10020,11400.0,Good
+"Banking, credit and other investment managers",10021,24560.0,Moderate
+"Advertising, marketing and public relations managers",10022,16070.0,Moderate
+Other business services managers,10029,,Undetermined
+Telecommunication carriers managers,10030,3180.0,Moderate
+Engineering managers,20010,8660.0,Very good
+Architecture and science managers,20011,2630.0,Good
+Computer and information systems managers,20012,31840.0,Good
+Managers in health care,30010,6190.0,Good
+Government managers - health and social policy development and program administration,40010,,Undetermined
+"Government managers - economic analysis, policy development and program administration",40011,,Undetermined
+Government managers - education policy development and program administration,40012,,Undetermined
+Other managers in public administration,40019,,Undetermined
+Administrators - post-secondary education and vocational training,40020,3510.0,Very good
+School principals and administrators of elementary and secondary education,40021,5430.0,Very good
+"Managers in social, community and correctional services",40030,6120.0,Very good
+Commissioned police officers and related occupations in public protection services,40040,,Undetermined
+Fire chiefs and senior firefighting officers,40041,,Undetermined
+Commissioned officers of the Canadian Armed Forces,40042,,Undetermined
+"Library, archive, museum and art gallery managers",50010,,Undetermined
+"Managers - publishing, motion pictures, broadcasting and performing arts",50011,,Undetermined
+"Recreation, sports and fitness program and service directors",50012,,Undetermined
+Corporate sales managers,60010,5460.0,Moderate
+Retail and wholesale trade managers,60020,68700.0,Moderate
+Restaurant and food service managers,60030,21740.0,Very good
+Accommodation service managers,60031,7810.0,Very good
+Managers in customer and personal services,60040,3660.0,Moderate
+Construction managers,70010,14560.0,Good
+Home building and renovation managers,70011,31670.0,Good
+Facility operation and maintenance managers,70012,6640.0,Moderate
+Managers in transportation,70020,5650.0,Good
+Postal and courier services managers,70021,,Undetermined
+Managers in natural resources production and fishing,80010,,Undetermined
+Managers in agriculture,80020,2000.0,Good
+Managers in horticulture,80021,190.0,Moderate
+Managers in aquaculture,80022,,Undetermined
+Manufacturing managers,90010,19820.0,Good
+Utilities managers,90011,1590.0,Very good
+Financial auditors and accountants,11100,64070.0,Good
+Financial and investment analysts,11101,31960.0,Moderate
+Financial advisors,11102,33250.0,Moderate
+"Securities agents, investment dealers and brokers",11103,11420.0,Moderate
+Other financial officers,11109,11220.0,Moderate
+Human resources professionals,11200,29920.0,Good
+Professional occupations in business management consulting,11201,39020.0,Very good
+"Professional occupations in advertising, marketing and public relations",11202,55460.0,Moderate
+Physicists and astronomers,21100,460.0,Very good
+Chemists,21101,5700.0,Very good
+Geoscientists and oceanographers,21102,790.0,Very good
+Meteorologists and climatologists,21103,,Undetermined
+Other professional occupations in physical sciences,21109,,Undetermined
+Biologists and related scientists,21110,4500.0,Good
+Forestry professionals,21111,,Undetermined
+"Agricultural representatives, consultants and specialists",21112,,Undetermined
+Public and environmental health and safety professionals,21120,2810.0,Moderate
+Architects,21200,6750.0,Good
+Landscape architects,21201,540.0,Good
+Urban and land use planners,21202,2040.0,Good
+Land surveyors,21203,720.0,Good
+"Mathematicians, statisticians and actuaries",21210,3730.0,Good
+Data scientists,21211,5840.0,Good
+Cybersecurity specialists,21220,4800.0,Good
+Business systems specialists,21221,11320.0,Good
+Information systems specialists,21222,75660.0,Very good
+Database analysts and data administrators,21223,21940.0,Good
+Computer systems developers and programmers,21230,16920.0,Moderate
+Software engineers and designers,21231,37850.0,Good
+Software developers and programmers,21232,41610.0,Good
+Web designers,21233,3290.0,Moderate
+Web developers and programmers,21234,7990.0,Moderate
+Civil engineers,21300,12820.0,Good
+Mechanical engineers,21301,8650.0,Moderate
+Electrical and electronics engineers,21310,9660.0,Good
+Computer engineers (except software engineers and designers),21311,7580.0,Moderate
+Chemical engineers,21320,1640.0,Good
+Industrial and manufacturing engineers,21321,6100.0,Good
+Metallurgical and materials engineers,21322,390.0,Moderate
+Mining engineers,21330,360.0,Good
+Geological engineers,21331,450.0,Good
+Petroleum engineers,21332,140.0,Good
+Aerospace engineers,21390,1670.0,Good
+Other professional engineers,21399,6950.0,Very good
+Specialists in clinical and laboratory medicine,31100,8760.0,Good
+Specialists in surgery,31101,2120.0,Good
+General practitioners and family physicians,31102,15270.0,Very good
+Veterinarians,31103,1960.0,Very good
+Dentists,31110,6090.0,Very good
+Optometrists,31111,2890.0,Good
+Audiologists and speech-language pathologists,31112,2690.0,Very good
+Pharmacists,31120,9760.0,Good
+Dietitians and nutritionists,31121,2490.0,Good
+Psychologists,31200,3710.0,Very good
+Chiropractors,31201,2710.0,Good
+Physiotherapists,31202,5340.0,Good
+Occupational therapists,31203,3190.0,Good
+Kinesiologists and other professional occupations in therapy and assessment,31204,1460.0,Good
+Other professional occupations in health diagnosing and treating,31209,2120.0,Very good
+Nursing coordinators and supervisors,31300,4630.0,Very good
+Registered nurses and registered psychiatric nurses,31301,44260.0,Very good
+Nurse practitioners,31302,1250.0,Good
+"Physician assistants, midwives and allied health professionals",31303,800.0,Good
+Judges,41100,,Undetermined
+Lawyers and Quebec notaries,41101,30520.0,Moderate
+University professors and lecturers,41200,,Undetermined
+Post-secondary teaching and research assistants,41201,,Undetermined
+College and other vocational instructors,41210,21080.0,Moderate
+Secondary school teachers,41220,27130.0,Good
+Elementary school and kindergarten teachers,41221,62680.0,Good
+Social workers,41300,9240.0,Good
+Therapists in counselling and related specialized therapies,41301,12400.0,Very good
+Religious leaders,41302,,Undetermined
+Police investigators and other investigative occupations,41310,,Undetermined
+Probation and parole officers,41311,480.0,Moderate
+Educational counsellors,41320,2470.0,Moderate
+Career development practitioners and career counsellors (except education),41321,3190.0,Good
+"Natural and applied science policy researchers, consultants and program officers",41400,,Undetermined
+Economists and economic policy researchers and analysts,41401,7530.0,Moderate
+Business development officers and market researchers and analysts,41402,9240.0,Moderate
+"Social policy researchers, consultants and program officers",41403,10640.0,Moderate
+"Health policy researchers, consultants and program officers",41404,8820.0,Good
+"Education policy researchers, consultants and program officers",41405,3870.0,Good
+"Recreation, sports and fitness policy researchers, consultants and program officers",41406,1560.0,Moderate
+Program officers unique to government,41407,,Undetermined
+Other professional occupations in social science,41409,,Undetermined
+Librarians,51100,1530.0,Moderate
+Conservators and curators,51101,350.0,Good
+Archivists,51102,,Undetermined
+Editors,51110,3950.0,Moderate
+Authors and writers (except technical),51111,,Undetermined
+Technical writers,51112,2050.0,Moderate
+Journalists,51113,2620.0,Moderate
+"Translators, terminologists and interpreters",51114,2510.0,Very good
+"Producers, directors, choreographers and related occupations",51120,12630.0,Moderate
+"Conductors, composers and arrangers",51121,,Undetermined
+Musicians and singers,51122,,Undetermined
+"Supervisors, general office and administrative support workers",12010,8390.0,Moderate
+"Supervisors, finance and insurance office workers",12011,10330.0,Moderate
+"Supervisors, library, correspondence and related information workers",12012,370.0,Moderate
+"Supervisors, supply chain, tracking and scheduling coordination occupations",12013,15370.0,Good
+Executive assistants,12100,8530.0,Good
+Human resources and recruitment officers,12101,10300.0,Moderate
+Procurement and purchasing agents and officers,12102,11130.0,Good
+Conference and event planners,12103,5750.0,Good
+Employment insurance and revenue officers,12104,6150.0,Moderate
+"Court reporters, medical transcriptionists and related occupations",12110,1620.0,Moderate
+Health information management occupations,12111,940.0,Good
+Records management technicians,12112,360.0,Very good
+Statistical officers and related research support occupations,12113,1490.0,Moderate
+Accounting technicians and bookkeepers,12200,30630.0,Very good
+Insurance adjusters and claims examiners,12201,9160.0,Good
+Insurance underwriters,12202,6780.0,Very good
+"Assessors, business valuators and appraisers",12203,1880.0,Moderate
+Chemical technologists and technicians,22100,4840.0,Good
+Geological and mineral technologists and technicians,22101,200.0,Moderate
+Biological technologists and technicians,22110,1050.0,Moderate
+Agricultural and fish products inspectors,22111,,Undetermined
+Forestry technologists and technicians,22112,,Undetermined
+Conservation and fishery officers,22113,,Undetermined
+Landscape and horticulture technicians and specialists,22114,2230.0,Good
+Architectural technologists and technicians,22210,2430.0,Moderate
+Industrial designers,22211,3670.0,Good
+Drafting technologists and technicians,22212,4580.0,Moderate
+Land survey technologists and technicians,22213,150.0,Good
+Technical occupations in geomatics and meteorology,22214,780.0,Moderate
+Computer network and web technicians,22220,10300.0,Moderate
+User support technicians,22221,27590.0,Moderate
+Information systems testing technicians,22222,4190.0,Moderate
+Non-destructive testers and inspectors,22230,350.0,Good
+Engineering inspectors and regulatory officers,22231,1040.0,Moderate
+Occupational health and safety specialists,22232,4330.0,Good
+Construction inspectors,22233,3290.0,Very good
+Civil engineering technologists and technicians,22300,2210.0,Good
+Mechanical engineering technologists and technicians,22301,2740.0,Moderate
+Industrial engineering and manufacturing technologists and technicians,22302,2970.0,Good
+Construction estimators,22303,3530.0,Good
+Electrical and electronics engineering technologists and technicians,22310,4330.0,Good
+Electronic service technicians (household and business equipment),22311,8590.0,Moderate
+Industrial instrument technicians and mechanics,22312,390.0,Good
+"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",22313,660.0,Good
+Opticians,32100,2170.0,Very good
+Licensed practical nurses,32101,7360.0,Very good
+Paramedical occupations,32102,3920.0,Good
+"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",32103,1640.0,Good
+Animal health technologists and veterinary technicians,32104,2910.0,Good
+Other technical occupations in therapy and assessment,32109,3960.0,Very good
+Denturists,32110,320.0,Very good
+Dental hygienists and dental therapists,32111,6380.0,Good
+Dental technologists and technicians,32112,1220.0,Good
+Medical laboratory technologists,32120,4030.0,Very good
+Medical radiation technologists,32121,3420.0,Good
+Medical sonographers,32122,2220.0,Good
+Cardiology technologists and electrophysiological diagnostic technologists,32123,490.0,Good
+Pharmacy technicians,32124,3980.0,Moderate
+Other medical technologists and technicians,32129,700.0,Moderate
+Traditional Chinese medicine practitioners and acupuncturists,32200,1110.0,Good
+Massage therapists,32201,5500.0,Very good
+Other practitioners of natural healing,32209,1110.0,Good
+Police officers (except commissioned),42100,8670.0,Good
+Firefighters,42101,4210.0,Moderate
+Specialized members of the Canadian Armed Forces,42102,,Undetermined
+Paralegals and related occupations,42200,12460.0,Moderate
+Social and community service workers,42201,15810.0,Good
+Early childhood educators and assistants,42202,34610.0,Good
+Instructors of persons with disabilities,42203,,Moderate
+Religion workers,42204,,Moderate
+Library and public archive technicians,52100,1040.0,Undetermined
+Film and video camera operators,52110,1300.0,Moderate
+Graphic arts technicians,52111,1910.0,Moderate
+Broadcast technicians,52112,640.0,Limited
+Audio and video recording technicians,52113,2370.0,Limited
+Announcers and other broadcasters,52114,1960.0,Moderate
+"Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts",52119,1770.0,Moderate
+Graphic designers and illustrators,52120,22440.0,Limited
+Interior designers and interior decorators,52121,6510.0,Moderate
+Retail sales supervisors,62010,41970.0,Good
+Food service supervisors,62020,8580.0,Moderate
+Executive housekeepers,62021,190.0,Good
+"Accommodation, travel, tourism and related services supervisors",62022,750.0,Good
+Customer and information services supervisors,62023,7820.0,Very good
+Cleaning supervisors,62024,8740.0,Moderate
+Other services supervisors,62029,,Good
+Technical sales specialists - wholesale trade,62100,29820.0,Undetermined
+Retail and wholesale buyers,62101,5820.0,Good
+Chefs,62200,11470.0,Moderate
+Funeral directors and embalmers,62201,860.0,Good
+"Jewellers, jewellery and watch repairers and related occupations",62202,1050.0,Very good
+"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",72010,1840.0,Moderate
+"Contractors and supervisors, electrical trades and telecommunications occupations",72011,5260.0,Good
+"Contractors and supervisors, pipefitting trades",72012,1770.0,Good
+"Contractors and supervisors, carpentry trades",72013,6190.0,Good
+"Contractors and supervisors, other construction trades, installers, repairers and servicers",72014,10150.0,Good
+"Contractors and supervisors, mechanic trades",72020,8080.0,Good
+"Contractors and supervisors, heavy equipment operator crews",72021,4020.0,Very good
+"Supervisors, printing and related occupations",72022,1930.0,Good
+"Supervisors, railway transport operations",72023,140.0,Moderate
+"Supervisors, motor transport and other ground transit operators",72024,8040.0,Very good
+"Supervisors, mail and message distribution occupations",72025,,Very good
+Machinists and machining and tooling inspectors,72100,4370.0,Undetermined
+Tool and die makers,72101,2880.0,Good
+Sheet metal workers,72102,1820.0,Good
+Boilermakers,72103,150.0,Moderate
+Structural metal and platework fabricators and fitters,72104,640.0,Moderate
+Ironworkers,72105,1730.0,Moderate
+Welders and related machine operators,72106,6980.0,Moderate
+Electricians (except industrial and power system),72200,16010.0,Moderate
+Industrial electricians,72201,,Moderate
+Power system electricians,72202,520.0,Good
+Electrical power line and cable workers,72203,680.0,Very good
+Telecommunications line and cable installers and repairers,72204,1830.0,Good
+Telecommunications equipment installation and cable television service technicians,72205,4710.0,Moderate
+Plumbers,72300,7300.0,Moderate
+"Steamfitters, pipefitters and sprinkler system installers",72301,1770.0,Moderate
+Gas fitters,72302,1310.0,Moderate
+Carpenters,72310,12300.0,Good
+Cabinetmakers,72311,2100.0,Moderate
+Bricklayers,72320,2360.0,Good
+Insulators,72321,690.0,Good
+Construction millwrights and industrial mechanics,72400,9360.0,Moderate
+Heavy-duty equipment mechanics,72401,2380.0,Good
+"Heating, refrigeration and air conditioning mechanics",72402,9640.0,Good
+Railway carmen/women,72403,520.0,Good
+Aircraft mechanics and aircraft inspectors,72404,2420.0,Good
+Machine fitters,72405,,Very good
+Elevator constructors and mechanics,72406,1450.0,Undetermined
+"Automotive service technicians, truck and bus mechanics and mechanical repairers",72410,18150.0,Good
+"Auto body collision, refinishing and glass technicians and damage repair estimators",72411,2750.0,Good
+Oil and solid fuel heating mechanics,72420,80.0,Good
+Appliance servicers and repairers,72421,940.0,Good
+Electrical mechanics,72422,420.0,Moderate
+"Motorcycle, all-terrain vehicle and other related mechanics",72423,440.0,Good
+Other small engine and small equipment repairers,72429,160.0,Moderate
+Crane operators,72500,1610.0,Moderate
+Water well drillers,72501,,Good
+"Air pilots, flight engineers and flying instructors",72600,1820.0,Undetermined
+Air traffic controllers and related occupations,72601,,Very good
+"Deck officers, water transport",72602,130.0,Undetermined
+"Engineer officers, water transport",72603,,Moderate
+Railway traffic controllers and marine traffic regulators,72604,,Undetermined
+Other technical trades and related occupations,72999,850.0,Undetermined
+"Supervisors, logging and forestry",82010,,Very good
+"Supervisors, mining and quarrying",82020,360.0,Undetermined
+"Contractors and supervisors, oil and gas drilling and services",82021,,Moderate
+Agricultural service contractors and farm supervisors,82030,110.0,Undetermined
+"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",82031,2400.0,Moderate
+"Supervisors, mineral and metal processing",92010,590.0,Good
+"Supervisors, petroleum, gas and chemical processing and utilities",92011,,Very good
+"Supervisors, food and beverage processing",92012,3760.0,Undetermined
+"Supervisors, plastic and rubber products manufacturing",92013,750.0,Very good
+"Supervisors, forest products processing",92014,340.0,Very good
+"Supervisors, textile, fabric, fur and leather products processing and manufacturing",92015,,Very good
+"Supervisors, motor vehicle assembling",92020,1960.0,Undetermined
+"Supervisors, electronics and electrical products manufacturing",92021,1630.0,Moderate
+"Supervisors, furniture and fixtures manufacturing",92022,1950.0,Very good
+"Supervisors, other mechanical and metal products manufacturing",92023,3820.0,Very good
+"Supervisors, other products manufacturing and assembly",92024,,Very good
+Power engineers and power systems operators,92100,2300.0,Undetermined
+Water and waste treatment plant operators,92101,1140.0,Good
+Administrative officers,13100,36000.0,Good
+Property administrators,13101,9110.0,Good
+Payroll administrators,13102,10040.0,Very good
+Administrative assistants,13110,37070.0,Moderate
+Legal administrative assistants,13111,10320.0,Moderate
+Medical administrative assistants,13112,13170.0,Moderate
+"Customs, ship and other brokers",13200,,Good
+Production and transportation logistics coordinators,13201,5610.0,Undetermined
+Dental assistants and dental laboratory assistants,33100,7620.0,Moderate
+Medical laboratory assistants and related technical occupations,33101,5210.0,Good
+"Nurse aides, orderlies and patient service associates",33102,40170.0,Good
+Pharmacy technical assistants and pharmacy assistants,33103,5530.0,Very good
+Other assisting occupations in support of health services,33109,4180.0,Good
+Elementary and secondary school teacher assistants,43100,12960.0,Moderate
+Other instructors,43109,,Good
+Sheriffs and bailiffs,43200,,Undetermined
+Correctional service officers,43201,1520.0,Undetermined
+By-law enforcement and other regulatory officers,43202,2030.0,Moderate
+"Border services, customs, and immigration officers",43203,1860.0,Moderate
+Operations members of the Canadian Armed Forces,43204,,Moderate
+"Registrars, restorers, interpreters and other occupations related to museum and art galleries",53100,490.0,Undetermined
+Photographers,53110,4580.0,Moderate
+"Motion pictures, broadcasting, photography and performing arts assistants and operators",53111,2200.0,Moderate
+Dancers,53120,,Very limited
+"Actors, comedians and circus performers",53121,,Undetermined
+"Painters, sculptors and other visual artists",53122,,Undetermined
+"Theatre, fashion, exhibit and other creative designers",53123,,Undetermined
+Artisans and craftspersons,53124,,Undetermined
+"Patternmakers - textile, leather and fur products",53125,,Undetermined
+Athletes,53200,,Undetermined
+Coaches,53201,,Undetermined
+Sports officials and referees,53202,,Undetermined
+Insurance agents and brokers,63100,20620.0,Undetermined
+Real estate agents and salespersons,63101,41450.0,Moderate
+Financial sales representatives,63102,23090.0,Moderate
+Cooks,63200,19590.0,Moderate
+Butchers - retail and wholesale,63201,1630.0,Good
+Bakers,63202,4830.0,Good
+Hairstylists and barbers,63210,11890.0,Moderate
+"Estheticians, electrologists and related occupations",63211,9190.0,Moderate
+Shoe repairers and shoemakers,63220,,Moderate
+Upholsterers,63221,750.0,Moderate
+Concrete finishers,73100,2820.0,Moderate
+Tilesetters,73101,2020.0,Good
+"Plasterers, drywall installers and finishers and lathers",73102,4950.0,Good
+Roofers and shinglers,73110,3470.0,Good
+Glaziers,73111,940.0,Moderate
+Painters and decorators (except interior decorators),73112,6600.0,Moderate
+Floor covering installers,73113,2570.0,Moderate
+Residential and commercial installers and servicers,73200,8770.0,Moderate
+General building maintenance workers and building superintendents,73201,12090.0,Moderate
+Pest controllers and fumigators,73202,710.0,Good
+Other repairers and servicers,73209,1190.0,Very good
+Transport truck drivers,73300,51250.0,Moderate
+"Bus drivers, subway operators and other transit operators",73301,17830.0,Very good
+Railway and yard locomotive engineers,73310,330.0,Very good
+Railway conductors and brakemen/women,73311,320.0,Good
+Heavy equipment operators,73400,4910.0,Good
+Printing press operators,73401,3710.0,Moderate
+"Drillers and blasters - surface mining, quarrying and construction",73402,260.0,Moderate
+Underground production and development miners,83100,,Very good
+"Oil and gas well drillers, servicers, testers and related workers",83101,,Undetermined
+Logging machinery operators,83110,,Undetermined
+Fishing masters and officers,83120,,Undetermined
+Fishermen/women,83121,,Undetermined
+"Central control and process operators, mineral and metal processing",93100,,Undetermined
+"Central control and process operators, petroleum, gas and chemical processing",93101,1560.0,Undetermined
+"Pulping, papermaking and coating control operators",93102,,Moderate
+Aircraft assemblers and aircraft assembly inspectors,93200,1820.0,Undetermined
+General office support workers,14100,31620.0,Very good
+Receptionists,14101,25470.0,Moderate
+Personnel clerks,14102,1610.0,Limited
+Court clerks and related court services occupations,14103,1170.0,Moderate
+Survey interviewers and statistical clerks,14110,1470.0,Moderate
+Data entry clerks,14111,7640.0,Limited
+Desktop publishing operators and related occupations,14112,140.0,Limited
+Accounting and related clerks,14200,29770.0,Moderate
+"Banking, insurance and other financial clerks",14201,9850.0,Moderate
+Collection clerks,14202,4220.0,Moderate
+Library assistants and clerks,14300,1950.0,Limited
+"Correspondence, publication and regulatory clerks",14301,3890.0,Moderate
+Shippers and receivers,14400,22520.0,Moderate
+Storekeepers and partspersons,14401,3710.0,Moderate
+Production logistics workers,14402,1440.0,Moderate
+Purchasing and inventory control workers,14403,5780.0,Moderate
+Dispatchers,14404,5800.0,Moderate
+Transportation route and crew schedulers,14405,1940.0,Moderate
+Home child care providers,44100,6960.0,Moderate
+"Home support workers, caregivers and related occupations",44101,10190.0,Good
+Primary combat members of the Canadian Armed Forces,44200,,Very good
+"Program leaders and instructors in recreation, sport and fitness",54100,21840.0,Undetermined
+Retail salespersons and visual merchandisers,64100,101010.0,Moderate
+Sales and account representatives - wholesale trade (non-technical),64101,55560.0,Moderate
+"Tailors, dressmakers, furriers and milliners",64200,1720.0,Good
+"Image, social and other personal consultants",64201,490.0,Moderate
+Maîtres d'hôtel and hosts/hostesses,64300,7280.0,Moderate
+Bartenders,64301,3420.0,Good
+Travel counsellors,64310,3150.0,Good
+Pursers and flight attendants,64311,3190.0,Good
+Airline ticket and service agents,64312,3320.0,Moderate
+"Ground and water transport ticket agents, cargo service representatives and related clerks",64313,310.0,Good
+Hotel front desk clerks,64314,2150.0,Moderate
+Tour and travel guides,64320,260.0,Good
+Casino workers,64321,870.0,Moderate
+Outdoor sport and recreational guides,64322,90.0,Good
+Customer services representatives - financial institutions,64400,20000.0,Moderate
+Postal services representatives,64401,2930.0,Moderate
+Other customer and information services representatives,64409,37680.0,Moderate
+Security guards and related security service occupations,64410,21310.0,Moderate
+Mail and parcel sorters and related occupations,74100,4380.0,Moderate
+Letter carriers,74101,,Moderate
+Couriers and messengers,74102,2400.0,Undetermined
+Railway yard and track maintenance workers,74200,710.0,Good
+Water transport deck and engine room crew,74201,,Moderate
+Air transport ramp attendants,74202,1500.0,Undetermined
+Automotive and heavy truck and equipment parts installers and servicers,74203,1720.0,Moderate
+Utility maintenance workers,74204,740.0,Moderate
+Public works maintenance equipment operators and related workers,74205,2730.0,Moderate
+Underground mine service and support workers,84100,,Moderate
+Oil and gas well drilling and related workers and services operators,84101,,Undetermined
+Chain saw and skidder operators,84110,,Undetermined
+Silviculture and forestry workers,84111,,Undetermined
+Specialized livestock workers and farm machinery operators,84120,970.0,Undetermined
+Fishing vessel deckhands,84121,,Good
+"Machine operators, mineral and metal processing",94100,550.0,Undetermined
+Foundry workers,94101,140.0,Good
+Glass forming and finishing machine operators and glass cutters,94102,540.0,Moderate
+"Concrete, clay and stone forming operators",94103,580.0,Very good
+"Inspectors and testers, mineral and metal processing",94104,290.0,Good
+Metalworking and forging machine operators,94105,7230.0,Good
+Machining tool operators,94106,2450.0,Very good
+Machine operators of other metal products,94107,5330.0,Good
+Chemical plant machine operators,94110,5920.0,Very good
+Plastics processing machine operators,94111,4150.0,Very good
+Rubber processing machine operators and related workers,94112,300.0,Good
+Sawmill machine operators,94120,120.0,Good
+"Pulp mill, papermaking and finishing machine operators",94121,210.0,Good
+Paper converting machine operators,94122,540.0,Moderate
+Lumber graders and other wood processing inspectors and graders,94123,,Moderate
+Woodworking machine operators,94124,730.0,Undetermined
+Other wood processing machine operators,94129,40.0,Moderate
+"Textile fibre and yarn, hide and pelt processing machine operators and workers",94130,380.0,Good
+"Weavers, knitters and other fabric making occupations",94131,,Moderate
+Industrial sewing machine operators,94132,4910.0,Undetermined
+"Inspectors and graders, textile, fabric, fur and leather products manufacturing",94133,440.0,Moderate
+"Process control and machine operators, food and beverage processing",94140,11880.0,Limited
+"Industrial butchers and meat cutters, poultry preparers and related workers",94141,1890.0,Good
+Fish and seafood plant workers,94142,,Good
+"Testers and graders, food and beverage processing",94143,1340.0,Undetermined
+Plateless printing equipment operators,94150,1950.0,Moderate
+"Camera, platemaking and other prepress occupations",94151,620.0,Moderate
+Binding and finishing machine operators,94152,820.0,Moderate
+Photographic and film processors,94153,230.0,Moderate
+"Motor vehicle assemblers, inspectors and testers",94200,5690.0,Limited
+"Electronics assemblers, fabricators, inspectors and testers",94201,6370.0,Moderate
+"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",94202,1610.0,Very good
+"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",94203,420.0,Good
+Mechanical assemblers and inspectors,94204,2140.0,Very good
+"Machine operators and inspectors, electrical apparatus manufacturing",94205,190.0,Very good
+"Furniture and fixture assemblers, finishers, refinishers and inspectors",94210,6480.0,Moderate
+Assemblers and inspectors of other wood products,94211,880.0,Good
+"Plastic products assemblers, finishers and inspectors",94212,1030.0,Good
+"Industrial painters, coaters and metal finishing process operators",94213,1730.0,Good
+"Other products assemblers, finishers and inspectors",94219,,Moderate
+"Student monitors, crossing guards and related occupations",45100,1710.0,Undetermined
+Other performers,55109,,Moderate
+Cashiers,65100,54840.0,Undetermined
+Service station attendants,65101,410.0,Limited
+"Store shelf stockers, clerks and order fillers",65102,46270.0,Limited
+Other sales related occupations,65109,4380.0,Moderate
+Food and beverage servers,65200,20820.0,Moderate
+"Food counter attendants, kitchen helpers and related support occupations",65201,55460.0,Good
+Meat cutters and fishmongers - retail and wholesale,65202,740.0,Good
+"Support occupations in accommodation, travel and facilities set-up services",65210,540.0,Good
+"Operators and attendants in amusement, recreation and sport",65211,8680.0,Moderate
+Pet groomers and animal care workers,65220,4950.0,Moderate
+Other support occupations in personal services,65229,,Very good
+Light duty cleaners,65310,31270.0,Undetermined
+Specialized cleaners,65311,4770.0,Moderate
+"Janitors, caretakers and heavy-duty cleaners",65312,16080.0,Good
+"Dry cleaning, laundry and related occupations",65320,2600.0,Moderate
+Other service support occupations,65329,2940.0,Moderate
+Longshore workers,75100,,Undetermined
+Material handlers,75101,50400.0,Moderate
+Construction trades helpers and labourers,75110,18900.0,Moderate
+Other trades helpers and labourers,75119,1550.0,Moderate
+Taxi and limousine drivers and chauffeurs,75200,14710.0,Very good
+Delivery service drivers and door-to-door distributors,75201,19130.0,Good
+Boat and cable ferry operators and related occupations,75210,70.0,Limited
+Railway and motor transport labourers,75211,450.0,Moderate
+Public works and maintenance labourers,75212,2420.0,Moderate
+Livestock labourers,85100,1110.0,Good
+Harvesting labourers,85101,380.0,Good
+Aquaculture and marine harvest labourers,85102,,Undetermined
+Nursery and greenhouse labourers,85103,1660.0,Good
+Trappers and hunters,85104,,Undetermined
+Mine labourers,85110,,Undetermined
+"Oil and gas drilling, servicing and related labourers",85111,,Undetermined
+Logging and forestry labourers,85120,460.0,Very limited
+Landscaping and grounds maintenance labourers,85121,11480.0,Moderate
+Labourers in mineral and metal processing,95100,1170.0,Moderate
+Labourers in metal fabrication,95101,3950.0,Very good
+Labourers in chemical products processing and utilities,95102,2130.0,Good
+"Labourers in wood, pulp and paper processing",95103,1020.0,Good
+Labourers in rubber and plastic products manufacturing,95104,1580.0,Moderate
+Labourers in textile processing and cutting,95105,1870.0,Moderate
+Labourers in food and beverage processing,95106,6980.0,Moderate
+Labourers in fish and seafood processing,95107,100.0,Good
+"Other labourers in processing, manufacturing and utilities",95109,6390.0,Moderate
