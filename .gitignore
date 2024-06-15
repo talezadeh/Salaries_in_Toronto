@@ -161,5 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-link to raw data.txt
-tbs-pssd-compendium-salary-disclosed-2023-en-utf-8-2024-05-31.xls
+*.txt
+*.xls
+*.docx
